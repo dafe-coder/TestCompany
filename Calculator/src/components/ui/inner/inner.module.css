@@ -1,0 +1,13 @@
+.inner {
+	background: white;
+	border: 1px solid #6e8692;
+	color: #6e8692;
+	font-weight: 500;
+	cursor: pointer;
+	border-radius: 4px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 0 15px;
+}
